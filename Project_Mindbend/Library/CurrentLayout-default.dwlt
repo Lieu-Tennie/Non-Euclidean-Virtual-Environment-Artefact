@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 780, y: 492}
   m_MaxSize: {x: 16005, y: 14042}
   vertical: 0
-  controlID: 746
+  controlID: 499
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 505, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 747
+  controlID: 504
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 505, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 748
+  controlID: 505
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 86400000
+      m_SelectedIDs: 08400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 3efbffff
+      m_ExpandedIDs: 88f0ffffcef1ffff3efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -483,9 +483,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 30.755077, y: 1.8264338, z: -23.348623}
+    m_Target: {x: 10.09531, y: 1.3575925, z: -6.644819}
     speed: 2
-    m_Value: {x: 30.755077, y: 1.8264338, z: -23.348623}
+    m_Value: {x: 10.09531, y: 1.3575925, z: -6.644819}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -531,9 +531,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.010466826, y: 0.67164284, z: 0.009450655, w: 0.74077266}
+    m_Target: {x: -0.09274052, y: -0.7207241, z: -0.09836473, w: 0.6799476}
     speed: 2
-    m_Value: {x: -0.010466826, y: 0.67164284, z: 0.0094506545, w: 0.74077266}
+    m_Value: {x: -0.09259063, y: -0.72172576, z: -0.09850135, w: 0.67884934}
   m_Size:
     m_Target: 1.1410173
     speed: 2
@@ -691,19 +691,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\3rd Year\Non-Euclidean-Virtual-Environment-Artefact\Project_Mindbend
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 46}
-    m_SelectedIDs: 963b0000
-    m_LastClickedID: 15254
+    m_SelectedIDs: 76400000
+    m_LastClickedID: 16502
     m_ExpandedIDs: 00000000963b000060400000624000006440000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
