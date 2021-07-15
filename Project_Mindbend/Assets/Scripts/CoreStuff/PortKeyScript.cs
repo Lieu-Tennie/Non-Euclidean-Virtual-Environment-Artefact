@@ -21,15 +21,13 @@ public class PortKeyScript : MonoBehaviour
             // If this is true: The player has moved across the portal
             if (dotProduct < 0f)
             {
-                // Teleport him!
+                // Teleport
                 float rotationDiff = -Quaternion.Angle(transform.rotation, reciever.rotation);
                 rotationDiff += 180;
                 player.transform.Rotate(Vector3.forward, rotationDiff);
 
                 Vector3 stepOffset = Quaternion.Euler(0f, rotationDiff, 0f) * portalToPlayer;
                 player.transform.position = reciever.position + stepOffset;
-
-                print("Teleport me boi");
 
                 playerIsOverlapping = false;
             }
@@ -41,7 +39,6 @@ public class PortKeyScript : MonoBehaviour
         if (other.tag == "Player")
         {
             playerIsOverlapping = true;
-            print("Test");
         }
     }
 
